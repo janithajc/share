@@ -1,2 +1,5 @@
-Name: KaMuKo Description: The best Korean cuisine in town! Latitude: 7.279107 Longitude: 80.698602 Type: 1
-Name: MCDonalds Description: The best Korean cuisine in town! Latitude: 7.279107 Longitude: 80.698602 Type: 1
+50% off!, Get 50% off on all pizzas today!, localhost, true
+30% off!, Get 30% off on mac and cheese today!, localhost, true
+20% off!, Get 20% off on Biritza's today!, localhost, true
+40% off!, Get 40% off on coffee today!, localhost, true
+10% off!, Get 10% off on Tandoori Chicken Pizza today!, localhost

@@ -2,4 +2,4 @@
 30% off!, Get 30% off on mac and cheese today!, localhost, true
 20% off!, Get 20% off on Biritza's today!, localhost, true
 40% off!, Get 40% off on coffee today!, localhost, true
-10% off!, Get 10% off on Tandoori Chicken Pizza today!, localhost
+10% off!, Get 10% off on Tandoori Chicken Pizza today!, localhost, true
